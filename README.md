@@ -13,9 +13,9 @@
 | :--- | :--- | :--- |
 | **01-First-CrackMe [Смотреть Write-up](./trainings/01/)** | ✅ Done | Базовая проверка пароля. |
 | **02-Get-Password [Смотреть Write-up](./trainings/02/)** | ✅ Done | Исследование алгоритма генерации ключа. |
-| **03-Добавлю [Смотреть Write-up](./trainings/03/)** | ✅ Done | Добавлю. |
-| **04-Добавлю [Смотреть Write-up](./trainings/04/)** | ✅ Done | Добавлю. |
-| **05-Добавлю [Смотреть Write-up](./trainings/05/)** | ✅ Done | Добавлю. |
+| **03-Добавлю [Смотреть Write-up](./trainings/03/)** | incomplete | Добавлю. |
+| **04-Добавлю [Смотреть Write-up](./trainings/04/)** | incomplete | Добавлю. |
+| **05-Добавлю [Смотреть Write-up](./trainings/05/)** | incomplete | Добавлю. |
 | **06-Decrypt password (static) [Смотреть Write-up](./trainings/06/)** | ✅ Done | Расшифровка ключа после статичного XOR. |
 | **07-Decrypt password (dynamic) [Смотреть Write-up](./trainings/07/)** | ✅ Done | Расшифровка ключа после динамического XOR. |
 
