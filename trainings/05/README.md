@@ -18,4 +18,5 @@
 - `crackmeFive.cpp` — исходный код.
 - `crackmeFiveWIN.exe` — пропатченная версия.
 
+<img width="949" height="269" alt="{54FC6430-2F99-4AE3-8141-8EAD10878C88}" src="https://github.com/user-attachments/assets/3d93ec01-9b23-442e-a294-fb2d75d3635f" />
 
