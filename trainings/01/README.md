@@ -15,3 +15,5 @@
 - `crackmeOne.cpp` — Исходный код.
 - `crackmeOne.exe` — Оригинал.
 - `crackmeOneWIN.exe` — Пропатченная версия.
+
+<img width="1016" height="254" alt="{E186C842-FB37-42C7-BF1B-39037D1326CF}" src="https://github.com/user-attachments/assets/83a44a02-089d-4dec-92cf-1cf0b50a1eaa" />
