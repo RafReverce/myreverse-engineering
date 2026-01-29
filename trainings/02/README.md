@@ -1,4 +1,4 @@
-# 02 - Simple Password Check (2) (CrackMe)
+# 02 - Simple patch (CrackMe)
 
 **Цель:** Обойти проверку пароля без знания самого пароля **(ч.2)**.
 
@@ -17,3 +17,4 @@
 - `crackmeOneWIN.exe` — Пропатченная версия.
 
 <img width="963" height="253" alt="{AF135088-3C4B-4441-AB10-2968DD7115E1}" src="https://github.com/user-attachments/assets/57661f84-b894-430d-bd45-4453f90cad76" />
+
