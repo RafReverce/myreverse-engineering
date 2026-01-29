@@ -16,3 +16,5 @@
 - `crackmeOne.cpp` — Исходный код.
 - `crackmeOne.exe` — Оригинал.
 - Пароль: `19715`
+<img width="923" height="286" alt="{0E7E4867-D32A-4975-A97F-0B4865503E84}" src="https://github.com/user-attachments/assets/c52f79df-4c86-4f65-b0c0-e112be070ff1" />
+
