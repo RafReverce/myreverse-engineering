@@ -18,3 +18,4 @@
 - `08.cpp` — Исходный код.
 - `08.exe` — Оригинал.
 - `08_patch.exe` — Пропатченная версия.
+<img width="1156" height="357" alt="image" src="https://github.com/user-attachments/assets/368d6b56-a0f4-4602-b8c2-06e4fb6b618c" />
