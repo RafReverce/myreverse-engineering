@@ -5,7 +5,7 @@
 
 ## 💻 My Lab
 - **OS:** Windows 11 Enterprise
-- **CPU:** Ryzen 5 5600 | **GPU:** RX 6600 | **RAM:** 32GB
+- **CPU:** Ryzen 5 5600 | **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 19000Hz, core 2903Hz) | **RAM:** 32GB
 - **Tools:** x64dbg, Ghidra
 
 ## 📂 Проекты в работе
