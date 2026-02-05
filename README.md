@@ -6,7 +6,7 @@
 ## 💻 My Lab
 - **OS:** Windows 11 Enterprise
 - **CPU:** Ryzen 5 5600 
-- **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 19000Hz, core 2903Hz)
+- **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 18002Hz, core 2903Hz)
 - **RAM:** 32GB
 - **Tools:** x64dbg, Ghidra
 
