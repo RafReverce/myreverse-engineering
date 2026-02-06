@@ -6,7 +6,7 @@
 ## 💻 My Lab
 - **OS:** Windows 11 Enterprise
 - **CPU:** Ryzen 5 5600 
-- **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 18002Hz, core 2903Hz)
+- **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 18001Hz, core 3150Hz)
 - **RAM:** 32GB
 - **Tools:** x64dbg, Ghidra
 
@@ -20,6 +20,10 @@
 | **05-Simple patch (2) [Смотреть Write-up](./trainings/05/)** | ✅ Done | Обойти проверку пароля без знания самого пароля **(ч.2)**. |
 | **06-Decrypt password (static) [Смотреть Write-up](./trainings/06/)** | ✅ Done | Расшифровка ключа после статичного XOR. |
 | **07-Decrypt password (dynamic) [Смотреть Write-up](./trainings/07/)** | ✅ Done | Расшифровка ключа после динамического XOR. |
+| **08-Bypass debugger check [Смотреть Write-up](./trainings/08/)** | ✅ Done | Обход проверки на отладчик (грубо). |
+| **09-Bypass debugger check (ninja) [Смотреть Write-up](./trainings/09/)** | ✅ Done |  Обход проверки на отладчик (стерильно). |
+| **10-Bypass the debugger check and get the password [Смотреть Write-up](./trainings/10/)** | ✅ Done | Обход проверки на отладчик + получение ключа. |
+| **11-Bypassing double checking on the debugger [Смотреть Write-up](./trainings/11/)** | ✅ Done | Обход двойной проверки на отладчик. |
 
 
 ## 🔗 Контакты
