@@ -8,7 +8,7 @@
 - **CPU:** Ryzen 5 5600 
 - **GPU:** RTX 5080 GIGABYTE GAMING (OVERCLOCK memory 18001Hz, core 3150Hz)
 - **RAM:** 32GB
-- **Tools:** x64dbg, Ghidra
+- **Tools:** x64dbg, Ghidra, Ida pro
 
 ## 📂 Проекты в работе
 | Проект | Статус | Описание |
