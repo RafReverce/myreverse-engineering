@@ -6,6 +6,7 @@
 ## 🛠 Инструменты
 - **Compiler:** MSVC (cl.exe)
 - **Debugger:** x64dbg (x32 mode)
+- **Decompiler:** Ghidra
 
 ## Защита:
 - **Двойная проверка на отладчик в `000D10D4|FF15 00000F00|call dword ptr ds:[<IsDebuggerPresent>]` и `000D1116|FF15 04000F00|call dword ptr ds:[<CheckRemoteDebuggerPresent>]`**
