@@ -28,3 +28,6 @@
 - +0x08: ImageBaseAddress (адрес, по которому загружен твой .exe).
 - +0x18: Ldr (указатель на список всех загруженных DLL).
 - +0xBC: NtGlobalFlag (еще одна метка отладчика).
+
+<img width="595" height="50" alt="image" src="https://github.com/user-attachments/assets/5a58cf19-011f-488c-950e-17290c1b04fe" />
+<img width="1439" height="669" alt="image" src="https://github.com/user-attachments/assets/af03ef38-178e-4471-859a-ba2f1e45070d" />
